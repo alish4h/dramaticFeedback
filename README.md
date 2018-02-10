@@ -1,4 +1,4 @@
-Dramatic Feedback
+Dramatic Feedback - Survey app for feedback after drama therapy.
 ============================================
 
 A PhoneGap Vuejs-framework7 template for the [Framework7+Vue Simple Template](http://framework7.io/vue/templates.html). Check out this [associated blog post](http://devgirl.org/2017/01/10/phonegap-apps-with-vue-js-yes-please) for details about
