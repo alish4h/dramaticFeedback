@@ -25,12 +25,13 @@ Vue.use(Framework7Vue, Framework7)
 
 // Init App
 new Vue({
+  // app root element
   el: '#app',
   template: '<app/>',
   // Init Framework7 by passing parameters here
   framework7: {
-    id: 'io.framework7.testapp', // App bundle ID
-    name: 'Framework7', // App name
+    id: 'io.framework7.dramaticFeedback', // App bundle ID
+    name: 'Dramatic Feedback', // App name
     theme: 'auto', // Automatic theme detection
     // App routes
     routes: Routes,

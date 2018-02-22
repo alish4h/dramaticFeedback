@@ -92,15 +92,6 @@
 <script>
 export default {
   data() {
-    email = '',
-    password = ''
-  },
-  methods: {
-    checkEmail() {
-      if (f7-button.data.email == 0) {
-        console.log(this.email)
-      }
-    }
   }
 }
 </script>
